@@ -11,4 +11,6 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business
 
 # Mock Up 
+<img width="948" alt="12-sql-homework-demo-01" src="https://user-images.githubusercontent.com/93934820/152455657-a47346bd-621e-41c1-8330-403873951e72.png">
 
+Video Link: 
